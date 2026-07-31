@@ -1,69 +1,100 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Zalfa Malikul Mulqi",
+    "username": "zalfamulki",
+    "headline": "Fullstack Developer & Network Engineer",
+    "affiliation": "Siliwangi University",
+    "location": "Tasikmalaya, Indonesia",
+    "status": "Building Web Apps & Network Solutions",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "I build responsive, scalable web applications end to end, from frontend interfaces to backend services and database design. I pair that with hands-on networking so the products I ship are as reliable on the wire as in the browser.",
+      "My work focuses on practical software that solves real problems - clean architecture, thoughtful UX, and infrastructure that is easy to deploy, monitor, and troubleshoot."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "Fullstack Engineering",
+    "direction": "End-to-end product delivery",
+    "themes": "Frontend / Backend / Networking",
+    "narrative": "I enjoy designing complete web solutions - crafting clean interfaces, integrating backend services, optimizing performance, and building reliable network infrastructure that keeps applications fast and available."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Fullstack Development",
+      "description": "Responsive web applications built end to end, from UI to API and database."
     },
     {
-      "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "name": "Network Engineering",
+      "description": "Configuration, optimization, monitoring, and troubleshooting of network infrastructure."
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "Cloud Deployment",
+      "description": "Shipping and scaling applications on modern platforms with clean CI/CD practice."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
-      "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
+      "name": "Web Keluarga",
+      "url": "https://github.com/zalfamulki/web-keluarga",
+      "homepage": "https://web-keluarga-blush.vercel.app/",
+      "focus": "Family website",
+      "summary": "A family website built with vanilla HTML, CSS, and JavaScript - a shared space where relatives post updates and stay connected.",
+      "heroLabel": "Family web"
     },
     {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "name": "SmartQueue Mobile",
+      "url": "https://github.com/zalfamulki/Smartqueue_Mobile",
       "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "focus": "Mobile queue app",
+      "summary": "A Flutter mobile app that digitizes queue management, reducing wait confusion for customers and staff.",
+      "heroLabel": "Mobile queue app"
+    },
+    {
+      "name": "Kampus Project",
+      "url": "https://github.com/zalfamulki/Kampus-Project",
+      "homepage": "",
+      "focus": "Academic system",
+      "summary": "A web-based SIAKAD student academic system that centralizes academic records for a campus.",
+      "heroLabel": "Academic system"
+    },
+    {
+      "name": "Portfolio Website",
+      "url": "https://github.com/zalfamulki/Portofolio-Profile",
+      "homepage": "",
+      "focus": "Portfolio site",
+      "summary": "A personal portfolio built with vanilla HTML, CSS, and JavaScript that presents projects and skills in a clean, fast layout.",
+      "heroLabel": "Portfolio site"
     }
   ],
   "techStack": [
+    "HTML",
+    "CSS",
+    "JavaScript",
     "TypeScript",
+    "React",
     "Next.js",
+    "Laravel",
+    "PHP",
+    "MySQL",
     "Python",
-    "PostgreSQL",
-    "Playwright"
+    "Git",
+    "Vercel",
+    "MikroTik"
   ],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "zalfamulki",
+      "url": "https://github.com/zalfamulki",
       "logo": "github",
       "color": "0B1220"
+    },
+    {
+      "label": "Instagram",
+      "value": "zlfqi_",
+      "url": "https://www.instagram.com/zlfqi_/",
+      "logo": "instagram",
+      "color": "E4405F"
     }
   ],
   "activity": {
@@ -73,5 +104,5 @@
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Building modern web applications and reliable network solutions."
 }
