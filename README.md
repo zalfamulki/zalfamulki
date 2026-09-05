@@ -51,7 +51,6 @@ I enjoy designing complete web solutions - crafting clean interfaces, integratin
 - Aug 19, 2026: pushed 1 commit to [zalfamulki/laundry-scanner](https://github.com/zalfamulki/laundry-scanner).
 - Aug 19, 2026: created a branch in [zalfamulki/laundry-scanner](https://github.com/zalfamulki/laundry-scanner).
 - Aug 6, 2026: pushed 1 commit to [zalfamulki/Ludo_Game](https://github.com/zalfamulki/Ludo_Game).
-- Aug 5, 2026: pushed 1 commit to [zalfamulki/web-matematika](https://github.com/zalfamulki/web-matematika).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
