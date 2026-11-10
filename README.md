@@ -53,7 +53,7 @@ I enjoy designing complete web solutions - crafting clean interfaces, integratin
 - Oct 31, 2026: created a branch in [zalfamulki/zero-trust-security](https://github.com/zalfamulki/zero-trust-security).
 - Oct 29, 2026: pushed 1 commit to [zalfamulki/zero-trust-security](https://github.com/zalfamulki/zero-trust-security).
 - Oct 27, 2026: created a branch in [zalfamulki/zero-trust-security](https://github.com/zalfamulki/zero-trust-security).
-- Oct 24, 2026: pushed 1 commit to [zalfamulki/Kia-laundry](https://github.com/zalfamulki/Kia-laundry).
+- Oct 24, 2026: pushed 1 commit to [zaskiajd/Kia-laundry](https://github.com/zaskiajd/Kia-laundry).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
