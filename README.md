@@ -48,12 +48,12 @@ I enjoy designing complete web solutions - crafting clean interfaces, integratin
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Nov 26, 2026: pushed 1 commit to [zalfamulki/Foto-GPS](https://github.com/zalfamulki/Foto-GPS).
 - Nov 24, 2026: pushed 1 commit to [zalfamulki/UAS-KPT](https://github.com/zalfamulki/UAS-KPT).
 - Nov 22, 2026: pushed 1 commit to [zalfamulki/Foto-GPS](https://github.com/zalfamulki/Foto-GPS).
 - Nov 21, 2026: created a branch in [zalfamulki/UAS-KPT](https://github.com/zalfamulki/UAS-KPT).
 - Nov 21, 2026: pushed 1 commit to [zalfamulki/UAS-KPT](https://github.com/zalfamulki/UAS-KPT).
 - Nov 18, 2026: pushed 1 commit to [zaskiajd/UAS-Komputasi-Awan](https://github.com/zaskiajd/UAS-Komputasi-Awan).
-- Nov 17, 2026: pushed 1 commit to [zaskiajd/UAS-Komputasi-Awan](https://github.com/zaskiajd/UAS-Komputasi-Awan).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
